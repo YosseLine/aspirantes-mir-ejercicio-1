@@ -1,4 +1,4 @@
-#S2 - GIT (Ejercicio 1)
+# S2 - GIT (Ejercicio 1)
 
 1. Abrir la consola e imprimir la ubicación actual.
 
